@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on tech innovations around mental health
 - 📫 How to reach me wakukha.masai@gmail.com
 - 😄 Pronouns: Fantastic
-- ⚡ Fun fact: I learnt that dolphins form gangs
+- ⚡ Fun fact: Dolphins form gangs
 
 <!---
 FantasticPanda/FantasticPanda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
